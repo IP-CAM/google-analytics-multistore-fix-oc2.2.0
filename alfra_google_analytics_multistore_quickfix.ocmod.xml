@@ -4,7 +4,7 @@
   <code>alfra_google_analytics_multistore_quickfix</code>
   <version>1.0</version>
   <author>alfra (fongreecss@gmail.com)</author>
-  <link>http://github.com/frasaleksander</link>
+  <link>https://github.com/frasaleksander/google-analytics-multistore-fix-oc2.2.0</link>
     <file path="admin/controller/analytics/google_analytics.php">
         <operation error="log">
             <search><![CDATA[$data['action'] = $this->url->link('analytics/google_analytics', 'token=' . $this->session->data['token'], true);]]></search>
