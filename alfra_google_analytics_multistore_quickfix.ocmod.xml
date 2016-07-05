@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <modification>
-  <name>Alfra Goodle Analytics Multistore Quickfix</name>
+  <name>Alfra Google Analytics Multistore Quickfix</name>
   <code>alfra_google_analytics_multistore_quickfix</code>
   <version>1.0</version>
   <author>alfra (fongreecss@gmail.com)</author>
